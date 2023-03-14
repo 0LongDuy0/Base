@@ -1,0 +1,12 @@
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\bin\Debug\net6.0\Staging_Data_Access.deps.json
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\bin\Debug\net6.0\Staging_Data_Access.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\bin\Debug\net6.0\Staging_Data_Access.pdb
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.csproj.AssemblyReference.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.AssemblyInfoInputs.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.AssemblyInfo.cs
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.csproj.CoreCompileInputs.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\refint\Staging_Data_Access.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\Staging_Data_Access.pdb
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_Data_Access\obj\Debug\net6.0\ref\Staging_Data_Access.dll

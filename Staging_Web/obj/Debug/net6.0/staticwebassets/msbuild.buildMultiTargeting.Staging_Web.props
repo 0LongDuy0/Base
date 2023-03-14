@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Staging_Web.props" />
+</Project>

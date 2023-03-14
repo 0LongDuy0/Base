@@ -1,0 +1,17 @@
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\bin\Debug\net6.0-windows\Staging_App.exe
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\bin\Debug\net6.0-windows\Staging_App.deps.json
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\bin\Debug\net6.0-windows\Staging_App.runtimeconfig.json
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\bin\Debug\net6.0-windows\Staging_App.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\bin\Debug\net6.0-windows\Staging_App.pdb
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.csproj.AssemblyReference.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.Form1.resources
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.csproj.GenerateResource.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.AssemblyInfoInputs.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.AssemblyInfo.cs
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.csproj.CoreCompileInputs.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\refint\Staging_App.dll
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.pdb
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\Staging_App.genruntimeconfig.cache
+D:\Linh_Tinh\Staging_Project\Staging_Project\Staging_App\obj\Debug\net6.0-windows\ref\Staging_App.dll
